@@ -1,6 +1,6 @@
 # ieee-fraud-detection
 
-The aim of this repository is to show the methods that I used to train an ensemble model that got nearly **0.91** score on the private board by doing minimal feature engineering. the aim is to keep the code simple and close to the reality. in most Kaggle competitions, competitors will use any means that allows them to rank higher. However in real application you don't do that because of the complexity it brings, risk of less generalization in the future and also the level of abstraction that this overengineered technics can bring.
+The aim of this repository is to show the methods that I used to train an ensemble model that got nearly **0.91** score on the private board by doing minimal feature engineering. the aim is to keep the code simple and close to the reality. in most Kaggle competitions, competitors will use any means that allow them to rank higher. However in real application you don't do that because of the complexity it brings, risk of less generalization in the future and also the level of abstraction that this overengineered technics can bring.
 
 ![Feature importance](feature-importance.png)
 

@@ -131,3 +131,4 @@ dmypy.json
 data/
 mlruns/
 artifacts/*.pkl
+catboost_info/

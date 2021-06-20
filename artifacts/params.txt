@@ -1,0 +1,1 @@
+{"iterations": 169, "custom_metric": "AUC", "loss_function": "Logloss", "learning_rate": 0.044184815819561254, "subsample": 0.5584289297070436, "scale_pos_weight": 2}
